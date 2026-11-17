@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+/src/publish/
+/.vs/
+/.vscode/
+*.user
+*.suo
+*.log
+*.csv
+*.diagnostics.json
+settings.json
+/PawnIO_setup.exe
+/X1Control.exe
+X1Control-preview*
